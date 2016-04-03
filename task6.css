@@ -39,7 +39,7 @@ body{
 	width: 641px;
 	height: 301px;
 	margin-top: 20px;
-	background:url(../image/pic1.png) no-repeat;
+	background:url(pic1.png) no-repeat;
 	float: left;
 }
 
@@ -238,7 +238,7 @@ span#qian{
 	margin-top: 10px;
 	margin-left: 20px;
 	margin-bottom: 20px;
-	background:url(../image/pic3.png) no-repeat;
+	background:url(pic3.png) no-repeat;
 	float: right;
 }
 
@@ -260,7 +260,7 @@ span#article{
 	width: 459px;
 	height: 275px;
 	margin-left: 20px;
-	background:url(../image/pic2.png) no-repeat;
+	background:url(pic2.png) no-repeat;
 }
 
 #title4{
@@ -268,7 +268,7 @@ span#article{
 	height: 61px;
 	margin-left: 20px;
 	margin-top: -79px;
-	background:url(../image/pic5.png) no-repeat;
+	background:url(pic5.png) no-repeat;
 }
 
 #t7{
